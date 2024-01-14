@@ -38,15 +38,10 @@ This is a simple console-based Battleship game implemented in Java. The game all
 - Adjust the grid size, ship types, or any game rules in the code.
 - Customize the display messages or add more features as needed.
 
-## Example Code
-```java
-// Example code to create a game instance
-public class Main {
-    public static void main(String[] args) {
-        BattleshipGame game = new BattleshipGame();
-        game.start();
-    }
-}
+## Example Gameplay
+<img width="1920" alt="2024-01-13 16 36 29" src="https://github.com/qle21/Battle-Line-Game/assets/112357287/9caf60ad-6442-422f-a46d-738b2b7fbaa4">
 
-##<img width="1920" alt="2024-01-13 16 36 29" src="https://github.com/qle21/Battle-Line-Game/assets/112357287/d4fa7dba-d0ed-42a7-8322-bdefb5bb9f28">
+
+
+
 
