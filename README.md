@@ -23,8 +23,6 @@ This is a simple console-based Battleship game implemented in Java. The game all
     - Enter coordinates (e.g., "A3") to attack.
     - The console will display if it's a hit or miss.
     - Keep attacking until all ships are sunk.
-![Uploading 2024-01-13 16.36.29.png…]()
-
 
 4. **Winning:**
     - The first player to sink all opponent's ships wins.
@@ -50,4 +48,5 @@ public class Main {
     }
 }
 
+##<img width="1920" alt="2024-01-13 16 36 29" src="https://github.com/qle21/Battle-Line-Game/assets/112357287/d4fa7dba-d0ed-42a7-8322-bdefb5bb9f28">
 
